@@ -1,73 +1,187 @@
-# 👋 Hi, I'm Maker Pro
+```{=html}
+<!--
+  GitHub Profile README
+  Repository: https://github.com/maker-pro/maker-pro
+-->
+```
+```{=html}
+<h1 align="center">
+```
+Hi, I'm Maker Pro 👋
+```{=html}
+</h1>
+```
+```{=html}
+<p align="center">
+```
+`<strong>`{=html}Backend Developer · PHP · Python · Go · Docker ·
+AI`</strong>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://maker-pro.github.io/my-blog/">`{=html}
+`<img src="https://img.shields.io/badge/Personal%20Knowledge%20Base-Maker%20Pro-4F46E5?style=for-the-badge&logo=vitepress&logoColor=white" alt="Maker Pro Knowledge Base">`{=html}
+`</a>`{=html} `<a href="https://github.com/maker-pro">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-maker--pro-181717?style=for-the-badge&logo=github" alt="GitHub">`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
 
-**Backend Developer | Technology Enthusiast | Lifelong Learner**
+------------------------------------------------------------------------
 
-欢迎来到我的 GitHub 个人主页！
+## 👨‍💻 About Me
 
-我是一名后端开发工程师，拥有多年 PHP 开发经验，目前持续学习 Go 后端开发、AI 应用开发和 Agent 技术。
+I'm a backend developer with years of experience in PHP development. I
+enjoy building practical tools, exploring backend technologies, and
+documenting what I learn.
 
-## 🚀 About Me
+-   💻 Backend development with **PHP / Laravel / ThinkPHP**
+-   🐍 Practical experience building tools and services with **Python**
+-   🐹 Currently deepening my knowledge of **Go backend development**
+-   🐳 Interested in **Docker, Linux, Kubernetes, and CI/CD**
+-   🤖 Exploring **LLM applications and AI Agents**
+-   📚 Building a structured, searchable technical knowledge base
 
-- 💻 多年 PHP 后端开发经验
-- 🐹 正在深入学习 Golang
-- 🤖 关注 AI 应用开发与 AI Agent
-- 🐳 喜欢研究 Docker、Linux 和服务器部署
-- 📚 坚持记录技术笔记，分享开发经验
+## 🚀 Featured Projects
 
-## 🛠️ Tech Stack
+### 1. [Maker Pro Knowledge Base](https://github.com/maker-pro/my-blog)
 
-**Languages**
+**VitePress · Markdown · GitHub Actions · GitHub Pages**
 
-- PHP
-- Golang
-- Python
-- JavaScript
+My personal technical knowledge base. I use it to organize development
+notes, implementation guides, troubleshooting records, and hands-on
+learning.
 
-**Backend & Database**
+-   Markdown-based content management
+-   Technical topics organized by category
+-   VitePress static-site generation
+-   GitHub Actions workflow for automated build and deployment
 
-- Laravel
-- Gin
-- MySQL
-- Redis
-- MongoDB
-- RabbitMQ
+🌐 **[Visit the knowledge base](https://maker-pro.github.io/my-blog/)**
 
-**DevOps & Tools**
+### 2. [ProxyPool Web Manager](https://github.com/maker-pro/proxypool-web-manager)
 
-- Linux
-- Docker
-- Git
-- GitHub Actions
+**Python · FastAPI · SQLite · Docker**
 
-**AI**
+A lightweight web manager for aggregating and managing proxy
+subscriptions.
 
-- LLM
-- AI Application Development
-- AI Agent
+-   Manage subscription sources and parse multiple node formats
+-   Deduplicate nodes and check TCP connectivity / latency
+-   Generate Clash subscriptions and YAML / JSON APIs
+-   Run locally or deploy with Docker
 
-## 📚 My Blog
+### 3. [Batch Video Downloader for Windows](https://github.com/maker-pro/batch-video-downloader-windows)
 
-欢迎访问我的个人技术知识库：
+**Python · Tkinter · Playwright · Async I/O**
 
-### 🌐 [Maker Pro - Personal Tech Blog](https://maker-pro.github.io/my-blog/)
+A Windows desktop utility for batch processing video page URLs and
+downloading supported media streams.
 
-记录和整理：
+-   Batch URL input and page-title-based filenames
+-   Extract media links from page markup and browser network activity
+-   Support common `m3u8`, `mp4`, and `webm` workflows
+-   Concurrent downloads and HTTP / SOCKS5 proxy configuration
+-   Package the application for Windows distribution
 
-- PHP / Laravel
-- Golang
-- MySQL / Redis / MongoDB
-- RabbitMQ
-- Docker / Linux
-- AI / Agent
+*Designed for media that the user is authorized to access and save; it
+does not bypass login controls or DRM.*
 
-## 📂 My Projects
+### 4. [wx_book --- WeChat Reading Mini Program](https://github.com/maker-pro/wx_book)
 
-| Project | Description |
-|---|---|
-| [my-blog](https://github.com/maker-pro/my-blog) | 基于 VitePress + GitHub Pages 构建的个人技术知识库 |
+**WeChat Mini Program · JavaScript · Lin UI**
 
-## 🎯 My Philosophy
+A reading-focused WeChat Mini Program with features including:
 
-> Keep Learning. Keep Building. Keep Growing.
+-   Popular books and book categories
+-   Book search and reading pages
+-   Personal bookshelf and add-to-shelf workflow
+-   Reading font-size and background customization
 
-持续学习，持续实践，持续成长。
+The public repository has API details removed and sample data
+desensitized for learning and demonstration.
+
+### 5. [New Year Couplet Generator](https://github.com/maker-pro/new-year-couplet)
+
+**PHP · Python · Redis**
+
+A small couplet-generation project and an integration exercise across
+PHP and Python.
+
+-   Explore passing user-submitted text from a PHP web application to a
+    Python process
+-   Use Redis as an intermediate data channel between components
+-   Record practical integration and deployment troubleshooting
+
+### 6. [wx-tree --- WeChat Mini Program Practice](https://github.com/maker-pro/wx-tree)
+
+**WeChat Mini Program · JavaScript**
+
+A mini-program practice repository covering page navigation, components,
+data binding, local storage, and responsive `rpx` layout.
+
+------------------------------------------------------------------------
+
+## 🧰 Technologies & Tools
+
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">`{=html}
+`<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">`{=html}
+`<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">`{=html}
+`<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">`{=html}
+`<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">`{=html}
+`<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">`{=html}
+`<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">`{=html}
+`<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">`{=html}
+`<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">`{=html}
+`<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">`{=html}
+`<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">`{=html}
+`<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">`{=html}
+`<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">`{=html}
+```{=html}
+</p>
+```
+## 🌱 Currently Exploring
+
+-   Go backend development and concurrent programming
+-   Practical AI application development with LLMs
+-   AI Agent architecture and tool integration
+-   Containerized deployment and automated delivery
+
+## 📖 Knowledge Sharing
+
+I document practical notes, code examples, debugging records, and
+deployment guides in my knowledge base:
+
+👉 **[Maker Pro --- Personal Technical Knowledge
+Base](https://maker-pro.github.io/my-blog/)**
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<em>`{=html}Keep Learning · Keep Building · Keep Growing`</em>`{=html}
+```{=html}
+</p>
+```
